@@ -13,4 +13,4 @@ An AI tool that generates blog posts (title, intro, full content) from a single 
 - AI Tools: OpenAI API
 
 ## Screenshots
-![App Screenshot](./screenshots/blog.png)
+![App Screenshot](./screenshots/demo.png)
