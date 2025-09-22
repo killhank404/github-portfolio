@@ -14,4 +14,4 @@ The system processes the PDF, extracts text, and uses AI to provide context-awar
 - AI Tools: LangChain, OpenAI API, Chroma DB
 
 ## Screenshots
-![App Screenshot](./screenshots/chat.png)
+![App Screenshot](./screenshots/demo.png)
