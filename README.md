@@ -1,40 +1,46 @@
-# AI-Powered Full-stack Projects Portfolio
+# 🚀 AI-Powered Full-stack Projects Portfolio
 
-Hi, I’m Yaroslav Hapotchenko — a **Full-stack Web Developer** exploring the world of **AI-powered applications**.  
-I combine my experience in **React / Next.js / Node.js** with modern AI tools like **OpenAI API, LangChain, Pinecone, Chroma** to build practical applications.
+Hi, I’m Yaroslav — a **Full-stack Web Developer** building modern **AI-powered applications**.  
+I combine **React / Next.js / Node.js** with **OpenAI, LangChain, and vector DBs** to deliver practical solutions.
 
+---
 
+## 📂 Featured Projects
 
-##  Projects
+### 1. [📄 Chat with PDF](./chat-with-pdf)
+Upload a PDF and ask AI-powered questions about it.  
+**Stack:** Next.js, Node.js, OpenAI API, pdf-parse, Chroma  
 
-### 1. [Chat with PDF](./chat-with-pdf)
-Upload any PDF and get instant answers with context-aware AI search.  
-**Stack:** Next.js, Node.js, OpenAI API, Chroma (vector DB)  
-![screenshot](./chat-with-pdf/screenshots/demo.png)
+![Chat with PDF](./chat-with-pdf/screenshots/demo.png)
 
+---
 
+### 2. [📝 AI Blog Generator](./ai-blog-generator)
+Generate complete blog posts (title, intro, body) from a single topic using GPT.  
+**Stack:** Next.js, Node.js, OpenAI API  
 
-### 2. [AI Blog Generator](./ai-blog-generator)
-Generate blog posts (title, intro, content) based on keywords using GPT.  
-**Stack:** React, Node.js, OpenAI API  
-![screenshot](./ai-blog-generator/screenshots/demo.png)
+![AI Blog Generator](./ai-blog-generator/screenshots/demo.png)
 
+---
 
+### 3. [💬 AI FAQ Assistant](./ai-faq-assistant)
+Website chatbot trained on FAQ data to support users in real time.  
+**Stack:** Next.js, Express, OpenAI API, LangChain, Pinecone  
 
-### 3. [AI FAQ Assistant](./ai-faq-assistant)
-Smart chatbot trained on company FAQ that can be integrated into websites.  
-**Stack:** Next.js, Express, LangChain, Pinecone  
-![screenshot](./ai-faq-assistant/screenshots/demo.png)
+![AI FAQ Assistant](./ai-faq-assistant/screenshots/demo.png)
 
+---
 
-
-##  Tech Skills
+## 🛠 Tech Skills
 - **Frontend:** React, Next.js, TypeScript, SCSS  
 - **Backend:** Node.js, Express, REST, GraphQL  
 - **AI Tools:** OpenAI API, LangChain, LlamaIndex, Pinecone, Chroma  
-- **Other:** Git, Docker, CI/CD, Agile
+- **Other:** Git, Docker, CI/CD, Agile  
 
+---
 
+## 🌍 Live Demos (optional)
+> You can deploy on **Vercel** in one click and paste links here. Recruiters LOVE live demos 😉
 
 ##  Contact
 - LinkedIn: https://www.linkedin.com/in/yaroslav-hapotchenko-782b162a3/
