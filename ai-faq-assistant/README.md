@@ -13,4 +13,4 @@ A chatbot that can be integrated into websites, trained on FAQ documents or comp
 - AI Tools: LangChain, OpenAI API, Pinecone
 
 ## Screenshots
-![App Screenshot](./screenshots/faq.png)
+![App Screenshot](./screenshots/Screenshot 2025-09-22 095454.png)
